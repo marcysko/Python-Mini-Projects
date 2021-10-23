@@ -10,5 +10,7 @@
 * Classes
   * Book Item: created a class that represents a Harry Potter book, using variables and print statements.
   * Movie Listing: created a Movie class that will be used to display the current movie playing at a movie theater.
+  * Character Creator: created a Character class that will be used for a coding game.
+  * Online Item: created a class to keep inventory of grocery items at a store.
 
 
