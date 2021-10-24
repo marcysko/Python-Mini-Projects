@@ -13,4 +13,8 @@
   * Character Creator: created a Character class that will be used for a coding game.
   * Online Item: created a class to keep inventory of grocery items at a store.
 
+* Functions
+  * Morse Encoder: wrote a function that converts a set of numbers to Morse code.
+  * Fare Split Calculator: created a function that splits a Doober fare between several users. 
+
 
