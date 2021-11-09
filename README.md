@@ -16,5 +16,8 @@
 * Functions
   * Morse Encoder: wrote a function that converts a set of numbers to Morse code.
   * Fare Split Calculator: created a function that splits a Doober fare between several users. 
+  * Calculator: simple calculator that can add, subtract, and multiply numbers
+  * Common Friend Checker: use lists to find out if a user is a common friend amongst two other users
+  * Class Scheduler: use loops to match a list of classes to available time slots
 
 
