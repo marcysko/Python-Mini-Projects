@@ -22,6 +22,8 @@
 
 * Conditional Statements
   * User Database: use a condition to check if a user has been added to a database.
-  * Fare Split Calculator: created a function that splits a Doober fare between several users. 
+  * Finding Outliers: use conditionals to help create code that checks for outliers in some data. 
+  * Collecting Data Points: create a program to check if there are enough data points within a dataset. 
+  * Duber Fare Calculator: calculate a rideshare fare depending on the chosen ride type  
 
 
