@@ -16,8 +16,14 @@
 * Functions
   * Morse Encoder: wrote a function that converts a set of numbers to Morse code.
   * Fare Split Calculator: created a function that splits a Doober fare between several users. 
-  * Calculator: simple calculator that can add, subtract, and multiply numbers
+  * Calculator: simple calculator that can add, subtract, and multiply numbers.
   * Common Friend Checker: use lists to find out if a user is a common friend amongst two other users
-  * Class Scheduler: use loops to match a list of classes to available time slots
+  * Class Scheduler: use loops to match a list of classes to available time slots.
+
+* Conditional Statements
+  * User Database: use a condition to check if a user has been added to a database.
+  * Finding Outliers: use conditionals to help create code that checks for outliers in some data. 
+  * Collecting Data Points: create a program to check if there are enough data points within a dataset. 
+  * Duber Fare Calculator: calculate a rideshare fare depending on the chosen ride type  
 
 
