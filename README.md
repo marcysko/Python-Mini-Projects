@@ -26,4 +26,7 @@
   * Collecting Data Points: create a program to check if there are enough data points within a dataset. 
   * Duber Fare Calculator: calculate a rideshare fare depending on the chosen ride type  
 
+* Using Strings
+  * Stock Manager: use knowledge of f-strings to code a program that tracks an online store's orders and stock.
+  * Tip Calculator: use knowledge about data types and f-strings to create a tip calculator.  
 
