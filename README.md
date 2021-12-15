@@ -28,5 +28,7 @@
 
 * Using Strings
   * Stock Manager: use knowledge of f-strings to code a program that tracks an online store's orders and stock.
-  * Tip Calculator: use knowledge about data types and f-strings to create a tip calculator.  
+  * Tip Calculator: use knowledge about data types and f-strings to create a tip calculator.
+  * Game Data: Keep track of two players and the data they generate during a round-based game. 
+  * Transforming DNA to RNA: Use splitting and updating strings to transform DNA sequences into RNA sequences.  
 
