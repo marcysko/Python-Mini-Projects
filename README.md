@@ -32,3 +32,10 @@
   * Game Data: Keep track of two players and the data they generate during a round-based game. 
   * Transforming DNA to RNA: Use splitting and updating strings to transform DNA sequences into RNA sequences.  
 
+* Loops
+  * Shipping Cost Calculator: code a shipping cost calculator using if, elif and else statements.
+  * Compound Interest Calculator: Use while loops to see how the amount stored in a bank account increases over time with a given interest rate.
+  * Coupon Generator: Use for loop to speed up the process of creating multiple discount coupon codes.
+  
+
+
