@@ -36,6 +36,12 @@
   * Shipping Cost Calculator: code a shipping cost calculator using if, elif and else statements.
   * Compound Interest Calculator: Use while loops to see how the amount stored in a bank account increases over time with a given interest rate.
   * Coupon Generator: Use for loop to speed up the process of creating multiple discount coupon codes.
+
+* Organizing Data
+  * New Product Rating: Create lists to store the results of how three new yogurt flavors were rated in a consumer product test.
+  * Stocks Tracker: Use a list to keep track of a company's stock values.
+  * Highest Score: Help an arcade machine find the highest score from a list of scores without the help max().
+  * Humidity Monitor: Use a list to manage soil humidity data received from a greenhouse monitor. We"ll use the list to track at over five days. 
   
 
 
