@@ -42,6 +42,12 @@
   * Stocks Tracker: Use a list to keep track of a company's stock values.
   * Highest Score: Help an arcade machine find the highest score from a list of scores without the help max().
   * Humidity Monitor: Use a list to manage soil humidity data received from a greenhouse monitor. We"ll use the list to track at over five days. 
+
+* Using Lists
+  * Lake Size Comparison: Analyze an unsorted dataset of the ten largest lakes in the USA.
+  * Customer Service Queue System: Sort a list of customers and assign them to the first available customer service desk.
+  * Team Size Checker: Use conditionals and list length to check team sizes and decide on the number of rounds left in a game.
+  * Product Ratings Analysis: Analyze a collection of product ratings. 
   
 
 
